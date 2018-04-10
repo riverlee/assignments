@@ -1,0 +1,8 @@
+Package: FPS
+Title: Formal Problem Statement
+Version: 0.0.0.9000
+Authors@R: person("Jiang", "Li", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Template for formal problem statement.
+Depends: R (>= 3.1.2)
+License: What license is it under?
+LazyData: true

@@ -32,7 +32,7 @@ We have idenfied data scientist, software engineer and marketing team as the key
 
 ## Success criteria
 
-  - Predict whether a pregnacy women will develop gestational diabetes with 95% accuracy. 
+  - Predict whether a pregnacy women will develop gestational diabetes with 75% accuracy. 
   - We are expecting to have >1000 user within the first month of the inital release of the App. 
 
 ## Risks
